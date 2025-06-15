@@ -6,7 +6,7 @@ When I uploaded sources alongside one convincingly formatted but wholly fabricat
 Error propagation.
 To probe further, I altered a legitimate abstract, inflating the AI in education is expected to be worth from “$6mn” to “$16mn.” In subsequent Q & A the model quoted the fictitious figure verbatim and even wove it into comparative arguments. This confirms that Notebook LM’s retrieval-augmented design means trust by default: it will faithfully relay whatever is present in user-supplied files, accurate or otherwise.
 
-Accuracy and Relevance of AI-Generated Output.png
+[Accuracy and Relevance of AI-Generated Output.png](https://github.com/21934310/notebooklm-evaluation-express/blob/0308bb1eef2e94e98e61dd146c7f940e73356759/Accuracy%20and%20Relevance%20of%20AI-Generated%20Output.png)
 
 Usefulness in real academic workflows
 Literature-review compression.
