@@ -6,6 +6,8 @@ When I uploaded sources alongside one convincingly formatted but wholly fabricat
 Error propagation.
 To probe further, I altered a legitimate abstract, inflating the AI in education is expected to be worth from “$6mn” to “$16mn.” In subsequent Q & A the model quoted the fictitious figure verbatim and even wove it into comparative arguments. This confirms that Notebook LM’s retrieval-augmented design means trust by default: it will faithfully relay whatever is present in user-supplied files, accurate or otherwise.
 
+Accuracy and Relevance of AI-Generated Output.png
+
 Usefulness in real academic workflows
 Literature-review compression.
 A graduate student scenario involved condensing twelve approximately 25-page PDFs into a 500-word state of the art summary. Manually this takes almost three hours; Notebook LM produced a solid first draft in 30 seconds. Inline citations let the student open each supporting passage instantly, so polishing the text required minutes, not hours.
